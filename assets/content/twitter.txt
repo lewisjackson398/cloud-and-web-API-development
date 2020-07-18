@@ -1,0 +1,3 @@
+Browse tweets from twitter users who tweeted the hashtag #Pokemon and tweet messages if you authenticate your account below. 
+The text area provides feedback in case you haven't signed in! 
+Users that authenticate on their phones and have geolocation turned on will be shown on the map.

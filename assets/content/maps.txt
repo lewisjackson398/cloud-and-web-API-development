@@ -1,0 +1,1 @@
+To find out the distance between locations click on the map to select your current location and then select a pokemon sprite. <br> Select your mode of transport (Default is walking).

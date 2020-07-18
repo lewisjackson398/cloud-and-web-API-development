@@ -1,0 +1,2 @@
+Click a pokemon sprite to get the current weather for that location! <br>
+Default weather (Newcastle Upon Tyne).

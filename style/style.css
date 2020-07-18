@@ -1,0 +1,162 @@
+html {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    font-family: 'Cabin', sans-serif;
+    color: #222224;
+    background-color: #f0f0f0;
+}
+
+p {
+    margin: 0;
+}
+
+.content-divider {
+    min-height: 4em;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav {
+    background-color: #ee1515;
+    position: fixed;
+    width: 100%;
+    /* https://www.cssmatic.com/box-shadow */
+    -webkit-box-shadow: 0px 2px 10px 0.3px rgba(0, 0, 0, 0.81);
+    -moz-box-shadow: 0px 2px 10px 0.3px rgba(0, 0, 0, 0.81);
+    box-shadow: 0px 2px 10px 0.3px rgba(0, 0, 0, 0.81);
+    z-index: 1000;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #222224;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav ul li:last-child {
+    float: right;
+}
+
+li a:hover {
+    background-color: #f0f0f0;
+}
+
+.active {
+    background-color: #ee1515;
+}
+
+.center {
+    margin: auto;
+    width: 60%;
+}
+
+i {
+    padding-right: 5px;
+}
+
+h3 {
+    margin: 0;
+    padding: 0;
+}
+
+#googleMap {
+    width: 100%;
+    height: 550px;
+    background-color: #f0f0f0;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+
+#infowindow {
+    color: #f0f0f0;
+}
+
+#user-feedback {
+    border-radius: 15px;
+    background-color: #f0f0f0;
+    border: 1px solid #222224;
+    width: 100%;
+}
+
+#distance-info p,
+#travel-info {
+    padding: 1%;
+}
+
+#tweet-list {
+    background-color: #f0f0f0;
+    float: left;
+    width: 100%;
+    height: 300px;
+    border: 1px solid #222224;
+    padding: 1%;
+    margin-bottom: 1%;
+    overflow-y: scroll;
+    margin-right: 1%;
+}
+
+button,
+#submit {
+    background-color: #ee1515;
+    border: 1px solid #222224;
+    border-radius: 5px;
+    padding: 2%;
+    color: #222224;
+    font-family: 'Cabin', sans-serif;
+}
+
+button:hover,
+#submit:hover {
+    background-color: #ee1515;
+    color: #f0f0f0;
+}
+
+#submit:disabled {
+    background-color: #ee1515;
+    text-decoration: line-through;
+    border: 1px solid #222224;
+
+}
+
+form {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+textarea {
+    border-radius: 5px;
+    width: 100%;
+    height: 100px;
+    background-color: #f0f0f0;
+}
+
+#legend {
+    background: #f0f0f0;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid #222224;
+    border-radius: 5px;
+    color: #222224;
+}
+
+#legend h3 {
+    margin-top: 0;
+}
+
+#legend img {
+    vertical-align: middle;
+}
