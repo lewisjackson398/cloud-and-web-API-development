@@ -1,17 +1,4 @@
-<!-- 
-Lewis Jackson
-W16018797
-lewis3.jackson@northumbria.ac.uk 
-KF6013 - Cloud and Web API Development - Dr Kay Rogage, Dr John Rooksby - 2019-2020
-
-Cloud solution:
-http://ec2-18-212-142-71.compute-1.amazonaws.com/KF6013_Assignment/index.php
-
-Alternate solution:
-http://lewisjackson.000webhostapp.com/KF6013_Assignment2/index.php
-
-
-Twitter didnt allow Azure public ip adress callback URL to work as it said it was invalid http://51.140.53.235/ so a different web hosting service was used.
-If both solutions above dont work then localhost will have to do but twitter functionality wont work.
-
--->
+The assignment is designed to assess that students are able to develop and design a web based solution that integrates third party web services and can be deployed on an appropriate cloud based service as specified during the taught module.
+The following learning outcomes will be assessed by this assignment:
+1. Design and develop web based applications that integrate with third party web services. Such services will include Cloud Computing based applications and services.
+2. Critically evaluate the value proposition of Cloud Computing based applications and services in relation to the service cost and its development time.
